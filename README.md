@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 # 💫 About Me:
