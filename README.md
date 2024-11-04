@@ -45,7 +45,11 @@
   <a href="https://wa.me/+989175848714">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  
-  <img src="https://visitcount.itsvg.in/api?id=mohsen-mhm&label=Profile%20Views&color=12&icon=8&pretty=false"/>
+
+  <br/>
+  <br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mohsen-mhm&label=Profile%20Views&color=6&icon=2&pretty=true" />
+  </a>
 </div>
 
